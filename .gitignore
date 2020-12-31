@@ -1,0 +1,23 @@
+**/__Previews/
+
+# History Folders
+**/History/*
+
+# Gerbers
+**/gerbers/
+**/schematics/
+**/assembly/
+
+# Project Logs
+Project\ Logs*/
+
+# Project Outputs
+Project\ Outputs*/
+
+# Auto-conversion notices
+*.PcbDoc.htm
+
+# Access lock file for dbLib sources
+**/*.ldb
+*.zip
+*.DbLib
