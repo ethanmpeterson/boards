@@ -1,6 +1,6 @@
 *.PrjPcbStructure
 **/__Previews/
-
+*.pdf
 # History Folders
 **/History/*
 
@@ -22,3 +22,4 @@ Project\ Outputs*/
 **/*.ldb
 *.zip
 *.DbLib
+
