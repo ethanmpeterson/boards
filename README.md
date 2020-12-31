@@ -11,5 +11,8 @@ TODO
 ## Custom Black Magic Probe / ST-LINK Debugger
 TODO
 
+## CAN Bus Shield for STM32 Development
+TODO
+
 ## STM32 Based CAN Bus Development Board (Mock ECU)
 TODO
