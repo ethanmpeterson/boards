@@ -15,7 +15,7 @@ TODO
 TODO
 
 ## CAN Bus Shield for STM32 Development
-The CAN bus shield is a standard size Arduino shield designed to be fitted to an STM32 Nucleo F446RE development board. The shield implements two CAN transceiver circuits, which are connected to the corresponding CAN controller pins on the nucleo board. The only difference between the CAN transceiver breakout board circuit and the transceiver circuitry on the shield is the addition of a switch to enable and disable bus termination.
+The CAN bus shield is a standard size Arduino shield designed to be fitted to an STM32 Nucleo F446RE development board. The shield implements two CAN transceiver circuits, which are connected to the corresponding CAN controller pins on the nucleo board. The only difference between the CAN transceiver breakout board circuit and the transceiver circuitry on the shield is the addition of a switch to enable and disable bus termination. This design is located in the DevKit foler.
 
 ## STM32 Based CAN Bus Development Board (Mock ECU)
 TODO
