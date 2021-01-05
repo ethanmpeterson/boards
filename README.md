@@ -6,9 +6,12 @@ listed below with a breif description and link to a post about the project on my
 The PDP is a first attempt at an STM32 development board using ST-Link for debugging and an STM32F7 series MCU. The full blog post on the PDP can be found [here](http://portfolio.petetech.net/peterson-dev-platform/)
 
 ## A CAN Transceiver Breakout Board
-TODO
+This board breaks out a CAN Transceiver IC to assist with the usage of the CAN bus controller built into STM32 chips. The full blog post can be found [here](http://portfolio.petetech.net/can-transceiver/).
 
 ## Custom Black Magic Probe / ST-LINK Debugger
+TODO
+
+## Buck Converter Breakout Board
 TODO
 
 ## CAN Bus Shield for STM32 Development
