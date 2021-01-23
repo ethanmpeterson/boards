@@ -15,7 +15,7 @@ The Debugger project aims to create a standard reference design for STM32 debugg
 An example buck converter circuit which regulates 12V supply to a 5V 2A output. Altium designer files are located in the buck folder.
 
 ## CAN Bus Shield for STM32 Development
-The CAN bus shield is a standard size Arduino shield designed to be fitted to an STM32 Nucleo F446RE development board. The shield implements two CAN transceiver circuits, which are connected to the corresponding CAN controller pins on the nucleo board. The only difference between the CAN transceiver breakout board circuit and the transceiver circuitry on the shield is the addition of a switch to enable and disable bus termination. This design is located in the DevKit foler.
+The CAN bus shield is a standard size Arduino shield designed to be fitted to an STM32 Nucleo F446RE development board. The shield implements two CAN transceiver circuits, which are connected to the corresponding CAN controller pins on the nucleo board. The only difference between the CAN transceiver breakout board circuit and the transceiver circuitry on the shield is the addition of a switch to enable and disable bus termination. This design is located in the DevKit folder.
 
 ## STM32 Based CAN Bus Development Board (Mock ECU)
 The Mock ECU is a CAN enabled STM32F4 development board aimed at helping my formula teammates with emulating the car's CAN bus in a remote development environment. The full post on the Mock ECU can be found [here](http://portfolio.petetech.net/mock-ecu/)
